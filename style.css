@@ -340,22 +340,29 @@ p {
     .toggle {
         position: relative;
         cursor: pointer;
-        width: 50px;
-        height: 50px;
-        color: black;
+        width: 40px;
+        height: 40px;
         background: url(hamburger.png);
         background-repeat: no-repeat;
         display: block;
-        filter: invert(1);
+        background-size: contain;
         z-index: 11;
     }
 
     .toggle.active {
-        position: fixed;
+        background-size: contain;
         right: 20px;
         background: url(close.png);
         background-position: center;
         background-repeat: no-repeat;
+        position: relative;
+        width: 30px;
+        height: 30px;
+        display: block;
+        background-repeat: no-repeat;
+        display: block;
+        background-size: contain;
+        z-index: 11;
     }
 
     header ul.navigation.active {
