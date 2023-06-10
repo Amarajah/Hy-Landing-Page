@@ -8,4 +8,6 @@ With Hy!, the quality of your video and audio calls is unparalleled. Thanks to a
 
 Hy! goes beyond just video conferencing. It offers a range of innovative features to enhance your overall experience. From screen sharing and real-time collaboration to virtual backgrounds and interactive whiteboards, Hy! empowers you to collaborate effectively and engage in dynamic conversations.
 
-Try Hy! today and elevate your video conferencing experience to new heights
+Click here to try the Hy! app today; https://hyapp.pythonanywhere.com
+
+Also checkout our blog post on linkedin here; 
