@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-
+/* Styling for larger screens */
 * {
     margin: 0;
     padding: 0;
@@ -304,7 +304,7 @@ p {
     color: rgb(25, 238, 9);
     font-size: 25px;
 }
-
+/* Changes to be effected when screen size is <= 600px */
 @media (max-width: 600px) {
     header img {
         max-width: 90px;
@@ -505,7 +505,7 @@ p {
         font-size: 16px;
     }
 }
-
+/* Changes to be effected when screen size is with the range of 600px and 990px */
 @media (min-width: 600px) and (max-width: 990px) {
     #section-one {
         padding: 50px;
