@@ -11,3 +11,6 @@ Hy! goes beyond just video conferencing. It offers a range of innovative feature
 Click here to try the Hy! app today; https://hyapp.pythonanywhere.com
 
 Also checkout our blog post on linkedin here;  https://www.linkedin.com/posts/ibe-naomi_so-at-school-few-weeks-ago-we-were-all-required-activity-7073983981225975808-5iJE?utm_source=share&utm_medium=member_desktop
+![Screenshot 2023-06-12 105256](https://github.com/Amarajah/Hy-Landing-Page/assets/104323769/9adf0c2a-7ccc-40e0-be01-49eef84d7608)
+
+![Screenshot 2023-06-12 105332](https://github.com/Amarajah/Hy-Landing-Page/assets/104323769/05357fec-c066-4458-a6ae-da2e77188770)
