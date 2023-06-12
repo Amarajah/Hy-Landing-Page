@@ -104,6 +104,17 @@
             menuToggle.classList.toggle('active')
             navigation.classList.toggle('active')
         }
+
+        var navigation_items = document.getElementById('navigation').children;
+        for (var i = 0; navigation_items[i]; i++) {
+            navigation_items[i].onclick = function () {
+                var menuToggle = document.querySelector('.toggle');
+                var navigation = document.querySelector('.navigation');
+
+                menuToggle.classList.toggle('active')
+                navigation.classList.toggle('active')
+            }
+        }
     </script>
     <!--Javascript code to add custom chatbot-->
     <script type="text/javascript">
